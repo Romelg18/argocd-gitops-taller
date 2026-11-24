@@ -1,6 +1,6 @@
 # Opcional: equivalente declarativo de crear la app desde la UI de Argo CD.
 # Aplicar con: kubectl apply -f argocd/application.yml
-# IMPORTANTE: reemplaza Romelg18 por tu usuario de GitHub.
+# Repositorio: github.com/Romelg18/argocd-gitops-taller
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:

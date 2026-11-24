@@ -58,7 +58,7 @@ En **+ NEW APP**:
 | Namespace | default |
 
 Alternativa por línea de comandos: `kubectl apply -f argocd/application.yml`
-(antes cambiar `Romelg18`).
+(el repoURL ya apunta a tu repo).
 
 ## Verificación
 
